@@ -1,0 +1,11 @@
+name: fomemo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - torch==2.3.0
+      - gpytorch==1.11
+      - botorch==0.10.0
+      - pymoo==0.6.0.1

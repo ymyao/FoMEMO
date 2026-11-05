@@ -1,0 +1,5 @@
+__pycache__/
+.vscode/
+training_results/
+training_demo_results/
+inference_results/
